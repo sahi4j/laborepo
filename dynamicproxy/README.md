@@ -1,1 +1,1 @@
-Information on dynamic proxy lab
+Test de dynamic proxy

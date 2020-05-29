@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee491ffc-039d-4b9f-bf35-6a4c11ceb0f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/laborepo2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dynamicproxy/dynamicproxy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dynamicproxy/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dynamicproxy/src/main/java/org/sahi4j/laborepo/beans/TimeMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dynamicproxy/src/main/java/org/sahi4j/laborepo/beans/TimeMachineInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dynamicproxy/src/main/java/org/sahi4j/laborepo/beans/TimeMachineProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dynamicproxy/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/dynamicproxy/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/dynamicproxy/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,7 +52,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dynamicproxy/src/main/java/org/sahi4j/laborepo/beans/TimeMachineProxy.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="452">
@@ -75,6 +62,15 @@
                 <element signature="e#231#232#0" expanded="true" />
                 <element signature="e#257#258#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dynamicproxy/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="21" selection-start-column="21" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -123,6 +119,7 @@
         <option value="$PROJECT_DIR$/dynamicproxy/src/main/java/org/sahi4j/laborepo/beans/TimeMachine.java" />
         <option value="$PROJECT_DIR$/dynamicproxy/src/main/java/org/sahi4j/laborepo/App.java" />
         <option value="$PROJECT_DIR$/dynamicproxy/src/main/java/org/sahi4j/laborepo/beans/TimeMachineProxy.java" />
+        <option value="$PROJECT_DIR$/dynamicproxy/README.md" />
       </list>
     </option>
   </component>
@@ -354,6 +351,13 @@
             <element signature="e#231#232#0" expanded="true" />
             <element signature="e#257#258#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dynamicproxy/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
         </state>
       </provider>
     </entry>
